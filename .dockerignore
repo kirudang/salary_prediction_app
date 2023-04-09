@@ -1,0 +1,5 @@
+# Exclude Jupyter Notebooks
+jupyter_notebooks/
+
+# Exclude virtual environment
+venv/
