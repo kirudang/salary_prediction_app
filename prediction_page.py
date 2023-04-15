@@ -24,7 +24,7 @@ le_gender = data["le_gender"]
 def show_predict_page():
     st.title("**:blue[Software Engineer Developer Salary Prediction Application]**")
     # Display the image
-    st.image('c:/Users/Kirudang/Desktop/Salary_prediction/images/Salary.jpg')
+    st.image('./images/Salary.jpg')
 
 
     countries = ( 'United States of America', 
